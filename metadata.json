@@ -1,0 +1,7 @@
+{
+  "name": "G.A.T.E. Console",
+  "description": "Geometric Acoustic Topology Engine. A quantitative signal processing suite for analyzing structural isomorphisms in acoustic data using Persistent Homology and Information Theory.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

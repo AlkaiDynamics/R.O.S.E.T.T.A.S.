@@ -1,0 +1,15 @@
+
+rosettas:
+  baseline_hz: 432.0
+  sample_rate: 44100
+  chunk_size: 2048
+  hop_length: 512
+  noise_threshold: 0.05
+  stability_threshold: 8
+  tda_precision: 0.01
+  max_history: 500
+  liquid_delta_max: 2
+  chaotic_delta_min: 3
+  planck_normalization: false
+  universal_mirror_trials: 100
+  quantizer_lambda: 0.75 # Threshold for discovering new Phonosemantic clusters
